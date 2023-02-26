@@ -1,1 +1,1 @@
-Readme updated from GitHub's website
+This readme was updated from GitHub's website
