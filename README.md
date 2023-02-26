@@ -1,1 +1,1 @@
-Updated this readme from the GitHub interface.
+Updated this readme from GitHub
